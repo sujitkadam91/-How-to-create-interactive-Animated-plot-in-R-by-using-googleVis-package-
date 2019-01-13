@@ -1,6 +1,6 @@
 # -How-to-create-interactive-Animated-plot-in-R-by-using-googleVis-package-
  How to create interactive Animated plot in R by using (googleVis) package 
-######  Subscribe this YouTube Channel Data/Fun  ##################
+# Subscribe this YouTube Channel Data/Fun  ##################
 # Package install
 install.packages("googleVis")## For Animation plot
 install.packages("gapminder")## For Data Set
@@ -25,4 +25,4 @@ ani_plot<-gvisMotionChart(gapminder,
 # by below command Animated plot will open in web browser 
 plot(ani_plot)
 
-######  Subscribe this YouTube Channel Data/Fun  ##################
+# Subscribe this YouTube Channel Data/Fun  ##################
